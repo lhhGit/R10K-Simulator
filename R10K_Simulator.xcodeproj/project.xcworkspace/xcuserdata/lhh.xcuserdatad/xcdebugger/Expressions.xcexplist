@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "main:main.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "logger.instr_log[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ALU::execute():ALU.cpp">
+         <PersistentStrings>
+            <PersistentString
+               value = "active_intrs.front()">
+            </PersistentString>
+            <PersistentString
+               value = "upstream_queue.instrs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
